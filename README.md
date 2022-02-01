@@ -32,7 +32,7 @@ The dataset I took from kaggle.link for the dataset is [here](https://data.world
 * Matplotlib -- creating static, animated, and interactive visualizations in Python.
 * Seaborn -- Python data Visulization based on matplotlib.
 
-## Model Evaluation Based criteria
+## Model Evaluation criteria
 * MSE
 * RMSE
 * R2_score
